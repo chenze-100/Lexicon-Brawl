@@ -1,0 +1,4 @@
+<view class="bg" />
+
+<image class="home-sun rotate time-36s" catchtap="onToSetting" src="./../../../../images/home-sun.png" />
+<image class="home-setting touch" catchtap="onToSetting" src="./../../../../images/home-setting.png" />

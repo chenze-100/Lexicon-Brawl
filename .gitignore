@@ -1,0 +1,12 @@
+node_modules/
+assets/
+server/
+db/
+delete_db_server.sh
+!cloudfunctions
+!cloudfunctions/server
+
+# 个人配置与 IDE 文件（不上传）
+.idea/
+.vscode/
+project.private.config.json

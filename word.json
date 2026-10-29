@@ -1,0 +1,15 @@
+{"_id":"w001","word":"abandon","usphone":"əˈbændən","trans":[{"tranCn":"放弃；抛弃","pos":"vt"}],"bookId":"random","rank":1}
+{"_id":"w002","word":"absolute","usphone":"ˈæbsəluːt","trans":[{"tranCn":"绝对的；完全的","pos":"adj"}],"bookId":"random","rank":2}
+{"_id":"w003","word":"academic","usphone":"ˌækəˈdemɪk","trans":[{"tranCn":"学术的；学院的","pos":"adj"}],"bookId":"random","rank":3}
+{"_id":"w004","word":"accept","usphone":"əkˈsept","trans":[{"tranCn":"接受；同意","pos":"vt"}],"bookId":"random","rank":4}
+{"_id":"w005","word":"access","usphone":"ˈækses","trans":[{"tranCn":"接近；入口","pos":"n"}],"bookId":"random","rank":5}
+{"_id":"w006","word":"accident","usphone":"ˈæksɪdənt","trans":[{"tranCn":"事故；意外","pos":"n"}],"bookId":"random","rank":6}
+{"_id":"w007","word":"achieve","usphone":"əˈtʃiːv","trans":[{"tranCn":"实现；达到","pos":"vt"}],"bookId":"random","rank":7}
+{"_id":"w008","word":"active","usphone":"ˈæktɪv","trans":[{"tranCn":"积极的；活跃的","pos":"adj"}],"bookId":"random","rank":8}
+{"_id":"w009","word":"actual","usphone":"ˈæktʃuəl","trans":[{"tranCn":"实际的；真实的","pos":"adj"}],"bookId":"random","rank":9}
+{"_id":"w010","word":"adapt","usphone":"əˈdæpt","trans":[{"tranCn":"适应；改编","pos":"v"}],"bookId":"random","rank":10}
+{"_id":"w011","word":"ability","usphone":"əˈbɪləti","trans":[{"tranCn":"能力；才能","pos":"n"}],"bookId":"cet4","rank":1}
+{"_id":"w012","word":"abroad","usphone":"əˈbrɔːd","trans":[{"tranCn":"在国外；到海外","pos":"adv"}],"bookId":"cet4","rank":2}
+{"_id":"w013","word":"absent","usphone":"ˈæbsənt","trans":[{"tranCn":"缺席的；缺少的","pos":"adj"}],"bookId":"cet4","rank":3}
+{"_id":"w014","word":"absorb","usphone":"əbˈzɔːrb","trans":[{"tranCn":"吸收；吸引","pos":"vt"}],"bookId":"cet4","rank":4}
+{"_id":"w015","word":"abstract","usphone":"ˈæbstrækt","trans":[{"tranCn":"抽象的；摘要","pos":"adj"}],"bookId":"cet4","rank":5}

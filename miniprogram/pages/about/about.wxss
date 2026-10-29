@@ -1,0 +1,8 @@
+page {
+  background-color: var(--bg-page);
+}
+
+.rich-content {
+  box-sizing: border-box;
+  padding: 16rpx 32rpx;
+}
